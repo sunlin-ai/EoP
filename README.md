@@ -34,3 +34,21 @@ Or, we can just use the file in bash directory:
 ```sh
 bash scripts/cot.sh
 ```
+
+
+
+## Citation
+
+If you find this work useful, please cite our paper:
+
+```shell
+@misc{sun2025exchangeperspectivepromptingenhances,
+      title={Exchange of Perspective Prompting Enhances Reasoning in Large Language Models}, 
+      author={Lin Sun and Can Zhang},
+      year={2025},
+      eprint={2506.03573},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2506.03573}, 
+}
+```
